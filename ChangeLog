@@ -1,0 +1,5 @@
+30/03/2000: Marcus Berglund <mabs@cvis.com.au>
+	* Fixed up range checks on longcount input.
+	* Took out redundant debugging code.
+	* Destructor now deletes objects (BUG???).
+	* Fixed cons.cc example.
