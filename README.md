@@ -1,6 +1,6 @@
 # mdate++
 
-! Welcome to mdate++
+# Welcome to mdate++
 
 A C++ rewrite of mdate: https://github.com/ewe2/mdate
 
@@ -8,7 +8,7 @@ basic stuff all works -- have a play, see if you can find a bug :)
 
 see LICENSE file for license information
 
-! How does it work?
+# How does it work?
 
 mdate++ converts between three date formats, Gregorian, Julian and Mayan Long Count calendars; making 3 inputs and 3 outputs. 
 
